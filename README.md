@@ -1,2 +1,2 @@
 # Gitcommands
-this is test for svaving repository 
+this is test for saving repository 
